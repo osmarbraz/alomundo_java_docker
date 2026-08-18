@@ -25,3 +25,6 @@ Aplicação **Alomundo** desenvolvida em **Java** e executada em um container Do
 
 ### Remover imagem
  - docker rmi alomundo_java_docker
+
+## Docker Hub
+ - https://hub.docker.com/repository/docker/osmarbraz/alomundo_java_docker/general
