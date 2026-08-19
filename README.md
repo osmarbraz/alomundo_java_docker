@@ -15,16 +15,20 @@ Aplicação **Alomundo** desenvolvida em **Java** e executada em um container Do
  - Utilizer o terminal do Powershel em modo administrador. 
 
 ### Construir a aplicação
- - docker build -t alomundo_java_docker .
+ - ```docker build -t alomundo_java_docker .```
 
 ### Rodar a aplicação
- - docker run --rm alomundo_java_docker
+ - ```docker run --rm alomundo_java_docker```
 
 ### Execução
  - A saída da aplicação é no próprio terminal.
 
 ### Remover imagem
- - docker rmi alomundo_java_docker
+ - ```docker rmi alomundo_java_docker```
+
+## Arquitetura do Sistema
+
+![Arquitetura](arquitetura.png)
 
 ## Docker Hub
  - https://hub.docker.com/repository/docker/osmarbraz/alomundo_java_docker/general
