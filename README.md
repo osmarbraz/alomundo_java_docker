@@ -12,7 +12,7 @@ Aplicação **Alomundo** desenvolvida em **Java** e executada em um container Do
 - Utiliza o **Docker** para criar uma imagem e executar a aplicação em um container.
 
 ## Comandos Docker
- - Utilizer o terminal do Powershel em modo administrador. 
+ - Utilizar o terminal do Windows Powershel em modo administrador.
 
 ### Construir a aplicação
  - ```docker build -t alomundo_java_docker .```
