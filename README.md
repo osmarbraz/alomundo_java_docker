@@ -31,4 +31,4 @@ Aplicação **Alomundo** desenvolvida em **Java** e executada em um container Do
 ![Arquitetura](arquitetura.png)
 
 ## Docker Hub
- - https://hub.docker.com/repository/docker/osmarbraz/alomundo_java_docker/general
+ - https://hub.docker.com/r/osmarbraz/alomundow_java_docker
