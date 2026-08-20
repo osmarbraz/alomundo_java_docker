@@ -4,12 +4,12 @@ Aplicação **Alomundo** desenvolvida em **Java** e executada em um container Do
 
 ## Sobre o projeto
 
-- O projeto foi desenvolvido utilizando o **NetBeans**.
-- O nome do projeto deve ser **alomundo_java_docker**.
-- Utiliza o **Java 8**.
-- Utiliza o **Apache Maven** para automatizar o processo de construção da aplicação.
-- A aplicação é empacotada no formato **JAR (Java ARchive)**.
-- Utiliza o **Docker** para criar uma imagem e executar a aplicação em um container.
+ - O projeto foi desenvolvido utilizando o **NetBeans**.
+ - O nome do projeto deve ser **alomundo_java_docker**.
+ - Utiliza o **Java 8**.
+ - Utiliza o **Apache Maven** para automatizar o processo de construção da aplicação.
+ - A aplicação é empacotada no formato **JAR (Java ARchive)**.
+ - Utiliza o **Docker** para criar uma imagem e executar a aplicação em um container.
 
 ## Comandos Docker
  - Utilizar o terminal do Windows Powershel em modo administrador.
